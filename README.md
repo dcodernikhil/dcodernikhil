@@ -1,7 +1,29 @@
 # 💫 About Me:
-🔭 I’m currently working on Wipro<br>👯 I’m looking to collaborate on AI tech<br>🌱 I’m currently learning Electronics & Electricals<br>
+🔭 Currently working on AI-driven systems and real-world problem solving at Wipro  
+🤖 Building intelligent systems across ML, DL, NLP, and Generative AI  
+🧠 Exploring LLMs, RAG pipelines, and AI Agents for automation & decision-making  
+👯 Open to collaborations on AI research, GenAI products, and impactful tech  
+🌱 Continuously learning Electronics, Electricals, and system-level thinking  
 
+---
 
+## 🚀 What I Do:
+- 🧪 Develop Deep Learning models (Computer Vision, Audio, Video AI)
+- 🧠 Build Generative AI systems using LLMs + RAG pipelines  
+- ⚙️ Design scalable backend systems using Flask & APIs  
+- 📊 Perform Data Analysis & Visualization for actionable insights  
+- 🌐 Create full-stack AI-powered web applications  
+
+---
+
+## 🧩 Current Focus:
+- 🔍 Advanced Deepfake Detection (Image, Audio, Video)
+- 🧠 AI Agents (Autonomous + Voice-based systems like JARVIS)
+- 📈 Data Analytics with Power BI & Tableau  
+- 🌐 Building AI-powered SaaS tools  
+- ⚡ Optimizing models for real-world deployment  
+
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dcoder_nikhil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dcoder-nikhil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhil.ranjanai@gmail.com) 
 
@@ -11,6 +33,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=aiwithnik&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aiwithnik&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithnik&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Dev Insight:
+> “The best way to predict the future is to build it with intelligence.”
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aiwithnik&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
